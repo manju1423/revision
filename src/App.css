@@ -1,0 +1,66 @@
+nav{
+  background-color: aqua;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+button{
+  background-color: brown;
+  font-size: 1.5rem;
+  color:yellow;
+  text-align: center;
+  margin:5px;
+}
+body{
+  text-align: center;
+  background-color: black;
+}
+label{
+  color:darkorchid;
+}
+form label{
+  color:red;
+  width:120px;
+  display:inline-block;
+}
+form div{
+  padding: 5px;
+  margin:3px;
+}
+.farm{
+  background-color: rgb(9, 242, 9);
+  display: inline-block;
+  padding: 20px;
+  border-radius: 10%;
+  margin-top: 20px;
+}
+h3{
+color:rgb(250, 5, 17);
+}
+body{
+  
+  background-color: whitesmoke;
+}
+.login{
+  background-color: aquamarine;
+  display:inline-block;
+}
+.login div{
+ margin:10px;
+ 
+}
+.login label{
+  width: 120px;
+  padding:10px;
+  margin:3px;
+}
+.profilePicPreview{
+  height: 150px;
+  width:150px;
+  object-fit: contain;
+  border:2px solid red;
+}
+img{
+  height:150px;
+  width:150px;
+}
